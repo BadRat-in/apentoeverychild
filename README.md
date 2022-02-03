@@ -1,4 +1,4 @@
-### DJango Chat System
+### A Pen To Every Child
 
 ### 👋 Hi, I’m Ravindra Singh Budgurjar
 
@@ -26,8 +26,7 @@
 <img align="left" alt="Git" width="40px" src="./README/git.png" />
 <img align="left" alt="GitHub" width="40px" src="./README/github.png" />
 <img align="left" alt="Terminal" width="40px" src="./README/terminal.png" />
-<img align="left" alt="Python" width="40px" src="./README/python.jpg" />
-<img align="left" alt="DJango" width="40px" src="./README/dj.webp" />
+<img align="left" alt="PHP" width="40px" src="./README/php.png" />
 <br />
 
 
