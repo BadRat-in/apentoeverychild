@@ -19,7 +19,7 @@ function sendMail(mysqli $db, string $mail, string $table, string $name, string 
     $mailer->Host = 'smtp.hostinger.com';
     $mailer->SMTPAuth = true;
     $mailer->Username = 'example@gmail.com';// Replace with your email
-    $mailer->Password = 'Hostinger@626747';
+    $mailer->Password = 'password'; // Replace with your Email password
     $mailer->SMTPSecure = 'ssl';
     $mailer->Port = 465;
     $mailer->setFrom('example@gmail.com', 'Site Name');// Replace with your email and Site Name
